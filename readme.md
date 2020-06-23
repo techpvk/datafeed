@@ -1,5 +1,5 @@
 
 # DATAFEED 
-We are going to work on the platform where it accpets feeds and aggrate the data into cold with different forms.
+We are going to work on the platform to accepts the feeds and aggregate  the data into cloud  in different forms. 
+Architecture diagram coming soon!!! stay tuned!!!
 
-Arciture digram coming soon!!! stay tuned!!!
